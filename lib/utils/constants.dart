@@ -3,8 +3,8 @@ class AppConstants {
   // IMPORTANT: Update these URLs based on your setup
   
   // PRODUCTION API (Render deployment):
-  static const String baseUrl = 'https://ecolifeappbackend.onrender.com/api';
-  static const String imageBaseUrl = 'https://ecolifeappbackend.onrender.com';
+  static const String baseUrl = 'https://ecolife-backend-7ixq.onrender.com/api';
+  static const String imageBaseUrl = 'https://ecolife-backend-7ixq.onrender.com';
   
   // For local development (uncomment when testing locally):
   // static const String baseUrl = 'http://localhost:5000/api';
